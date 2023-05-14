@@ -1,0 +1,177 @@
+ body{
+    background: linear-gradient(to left ,#0e96cc,white );
+}  
+nav{
+    float: right;
+     margin-top: 15px;
+    padding-right: 35px; 
+}
+/* thus is address */
+ /* address{
+    padding-right: 200px;
+    text-align: right;
+    padding-top: 30px;
+}  */
+.logo{
+
+    width: 30px;
+    padding-top: 10px;
+}
+nav a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    word-spacing: 30px;
+}
+nav a:hover{
+    color: #f9004d;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* .books{
+width: 100%;
+height: 500px;
+background:linear-gradient(to right ,white ,rgba(66, 149, 204, 0.4));
+} */
+.Title{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    padding:100px ;
+    
+}
+button{
+    border-radius: 10px;
+    width: 30%;
+    height: 15%;
+    margin-left: 100px;
+    background-color: #f9004d;
+    border: none;
+    color: black;
+}
+button:hover{
+    background:linear-gradient(to left , #0e96cc,white);
+    color: black;
+}
+ 
+
+
+.algo{
+    margin-right: 300px;
+    float: right;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 500px;
+    background: linear-gradient(to left ,#246481,white);
+    height: 200px;
+    border-radius: 10px;
+    border: 2px solid #246481;
+}
+.ia,.io,.ie{
+    text-decoration: none;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.java{
+    margin-left: 30px;
+    background: linear-gradient(to right ,#246481,white);
+    float: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 500px;
+    margin-top: 50px;
+    height: 200px;
+    border-radius: 10px;
+    border: 2px solid #f9004d;
+}
+.ttle{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    padding:100px ;
+}
+
+.py{
+    margin-left: 30px;
+    background: linear-gradient(to bottom ,#246481,white);
+    float: right;
+    margin-top: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+    border: 2px solid #ca08aa;
+}
+.tl{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    padding:100px ;
+}
+/* thus is contact us */
+div{
+    border: 2px solid white;
+    background:linear-gradient(to right ,white,#0e96cc);
+    width: 100%;
+    border-radius: 10px;
+    height: 320px;
+    
+    /* margin-left: 500px;
+    margin-top: 100px; */
+}
+
+label{
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 100px;
+    margin-top: 5px;
+}
+input::placeholder{
+    padding-left: 10px;
+}
+input,textarea{
+    
+    margin-left: 100px;
+    border:none;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #0e96cc;
+}
+/* thus is form begin from */
+form{
+   
+    margin-left: 2px;
+}
+#btn{
+    margin-left: 30px;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: tomato;
+}
+#btn:hover{
+    background-color: #0e96cc;
+}
+/* hr{
+     border:5px #f9004d; 
+    width: 50%;
+    float: left;
+    height: 20px;
+
+} */
+/* .target{
+    text-decoration: dotted;
+    font-size: 20px;
+} */
+/* .about{
+    float: left;
+    border: none;
+    border-bottom: 2px solid #246481;
+} */
+/* .about{
+    display: flex;
+    width: 50%;
+    height: 100px;
+    background-color: #ca08aa;
+    float: right;
+    margin-top:1px ;
+} */
